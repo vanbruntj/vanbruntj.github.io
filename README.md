@@ -1,6 +1,6 @@
 # vanbruntj.github.io
-Jason Van Brunt
-Jvanbrunt@my.waketech.edu
-This is my school account
-This repository will hold my school assignments
+Jason Van Brunt<br/>
+Jvanbrunt@my.waketech.edu<br/>
+This is my school account<br/>
+This repository will hold my school assignments<br/>
 
