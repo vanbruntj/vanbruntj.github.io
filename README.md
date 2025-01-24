@@ -17,5 +17,6 @@ This repository will hold my school assignments<br/>
 
 ### Websites I recommend
 +	[Chopchopfamily](https://www.chopchopfamily.org/recipes/) This is a great website for kid friendly recipes to help them learn how to cook.
++	[Path of Exile 2](https://pathofexile2.com/home) This is the Website for one of the Games I play
 	
 
