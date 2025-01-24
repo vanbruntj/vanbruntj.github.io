@@ -3,7 +3,7 @@
 Jason Van Brunt<br/>
 Jvanbrunt@my.waketech.edu<br/>
 This is my school account<br/>
-This repository will hold my school assignments<br/>
+This repository will hold my [school assignments](School-Assignments)<br/>
 ### My Interests
 * Family
 	* I have a wife and have been married for 11 years.
