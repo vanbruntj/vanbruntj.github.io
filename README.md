@@ -16,6 +16,6 @@ This repository will hold my school assignments<br/>
 	* Currently playing Pantheon Rise of the Fallen and Path of Exile 2
 
 ### Websites I recommend
-	[Chopchopfamily](https://www.chopchopfamily.org/recipes/) This is a great website for kid friendly recipes to help them learn how to cook.
++	[Chopchopfamily](https://www.chopchopfamily.org/recipes/) This is a great website for kid friendly recipes to help them learn how to cook.
 	
 
