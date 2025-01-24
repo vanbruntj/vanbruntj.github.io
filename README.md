@@ -14,11 +14,11 @@ This repository will hold my school assignments<br/>
 * Cooking
 	* I have been a restaurant manager for 20 years.
 	* I have worked for a few different companies in my career.
-	 ** Waffle House
-	 ** Cookout
-	 ** Pizza Hut
-	 ** Ihop
-	 ** Salsaritas
+		* Waffle House
+		* Cookout
+		* Pizza Hut
+		* Ihop
+		* Salsaritas
 	* I like to try and cook many different kinds of dishes using many different techniques
 	 ** I am currently experimenting with a Dr. Pepper barbeque sauce
 	 ** I am trying to figure out good gluten free baking recipes since my son has Celiac
