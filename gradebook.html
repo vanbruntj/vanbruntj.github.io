@@ -21,7 +21,7 @@
 </head>
 <body>
 	<h1>Gradebook</h1>
-	<table id="gradebook">
+	<table id="Gradebook">
 	<thread>
 		<tr>
 			<th>Student Name</th>
