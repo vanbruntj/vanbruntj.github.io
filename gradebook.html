@@ -35,9 +35,9 @@
 		<!-- Rows will be populated dynamically with JavaScript -->
 	</tbody>
 	</table>
-	<script src="gradebook">
+	<script src="Gradebook">
 </body>
-</html>
+
 function fetchGradeData() {
 	console.log("Fetching grade data...");
 	let xhr = new XMLHttpRequest();
@@ -71,3 +71,4 @@ function populateGradebook(data) {
 		row.appendChild(columns.grade);
 		tableElm.appendchild(row);
 	});
+</html>
