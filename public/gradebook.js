@@ -35,7 +35,7 @@
 		<!-- Rows will be populated dynamically with JavaScript -->
 	</tbody>
 	</table>
-	
+	<script src="gradebook">
 </body>
 </html>
 function fetchGradeData() {
